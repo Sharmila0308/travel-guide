@@ -1,0 +1,19 @@
+{
+  "name": "travel-guide",
+  "version": "1.0.0",
+  "description": "All about travel experiences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharmila0308/travel-guide.git"
+  },
+  "author": "Sharmila Parashara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharmila0308/travel-guide/issues"
+  },
+  "homepage": "https://github.com/Sharmila0308/travel-guide#readme"
+}
